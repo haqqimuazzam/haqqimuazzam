@@ -6,5 +6,5 @@ I am also the founder <a href="https://github.com/borch-org">Borch</a>, where we
 
 # Borch 🛡️
 
-* Borch Org: <a href="https://github.com/borch-org">Borch</a>
+* Instagram: https://www.instagram.com/borchorg
 * Discord: Coming Soon!
